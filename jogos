@@ -1,0 +1,5 @@
+import time
+import random
+
+print('vou escolher um numero de 0 a 5 tente adivinhar')
+time.sleep(1)
